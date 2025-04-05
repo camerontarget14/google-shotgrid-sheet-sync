@@ -18,7 +18,7 @@ terminal emulator installed by default called _Terminal_.
 
 Open the _Terminal_ application. Then enter the following commands, paying
 careful attention to the different kinds of quotation marks and replacing
-`<your api key here>` with the Shotgrid AIP key.
+`<your api key here>` with the Shotgrid API key.
 
 ```
 $ mkdir ~/bin
